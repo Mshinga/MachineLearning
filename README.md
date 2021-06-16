@@ -25,6 +25,19 @@ This data is retrieved from Johannesburg postal code data (on: https://www.south
     - This data will be scrapped over 57 pages of data within above url
     - This data does not contain the Region/Municipality data, this data will be retrieved from other sources
 
+![title](table2.png)
 
-## Capstone Project
+#### b. Region/Municipality data in Joburg:
+Municipality data is retrieved from (https://www.joburg.org.za/about_/regions/Pages/City-of-Johannesburg-regions.aspx):
+Data is arranged in 7 different Regions (A to G)
+Data is scrapped from each Region, however the format within each page is not common and some pages present data in html while others in pdf
+Will be explained further in Section 3
+
+
+#### c. Venues data within each location in Joburg:
+This data will be retrieved from Foursquare by using predefined credentials for the Foursquare API
+
+
+
+# Week 5: Capstone Project
     Final Report: https://kidreck.medium.com/best-location-to-start-an-asian-restaurant-in-jozi-a-data-science-perspective-d7e332aba7c5
