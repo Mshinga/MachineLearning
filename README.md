@@ -42,3 +42,6 @@ This data will be retrieved from Foursquare by using predefined credentials for 
 # Week 5: Capstone Project
 ## Final Report: 
 https://kidreck.medium.com/best-location-to-start-an-asian-restaurant-in-jozi-a-data-science-perspective-d7e332aba7c5
+
+## Jupyter notebook:
+https://github.com/Mshinga/MachineLearning/blob/e49416df33ec3ca8e5c9eec71b9b429e2717e692/Joburg_Capstone.ipynb
