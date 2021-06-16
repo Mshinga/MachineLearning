@@ -40,4 +40,5 @@ This data will be retrieved from Foursquare by using predefined credentials for 
 
 
 # Week 5: Capstone Project
-    Final Report: https://kidreck.medium.com/best-location-to-start-an-asian-restaurant-in-jozi-a-data-science-perspective-d7e332aba7c5
+## Final Report: 
+https://kidreck.medium.com/best-location-to-start-an-asian-restaurant-in-jozi-a-data-science-perspective-d7e332aba7c5
